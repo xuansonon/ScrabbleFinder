@@ -1,8 +1,8 @@
-# scrabbleFinder
+# ScrabbleFinder
 ScrabbleFinder or WordFinder is a Java-based console application that takes in a random string input from the user and a word to search for. The function will returns messages either if the application can find the word in the random string input or not. It works like scrabble - you have an x number of characters and you try to find a word with in that list of characters.
 <br />
 <br />
-### How to start wordFinder ###
+### How to start WordFinder/ScrabbleFinder ###
 ```
 java wordFinder
 ```
