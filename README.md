@@ -13,6 +13,7 @@ Enter a word to find:
 ```
 Once the scrabble pattern string and word is entered, the program will breakdown each of the input into single characters. The scrabble pattern string will be added into an Array List. It will then search the array list of it contains any of the word input characters. If it does it will begin the next character, if not, it will end the function with a message stating that the word cannot be found.
 <br />
+<br />
 **Exmaple Input and Outputs**
 ```
 Enter any scrabble pattern string: lidaymu
